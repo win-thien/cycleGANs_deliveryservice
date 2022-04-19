@@ -2,7 +2,9 @@
 Implementing a cycleGAN to produce generated images in the style of Studio Ghibli. 
 
 **Contact:**
+
 https://github.com/win-thien/cycleGANs_deliveryservice
+
 https://www.linkedin.com/in/thien-win-pe/
 
 
